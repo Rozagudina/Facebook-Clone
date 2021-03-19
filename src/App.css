@@ -1,0 +1,10 @@
+.app__body {
+  background-color: hsl(225, 17%, 95%);
+  /* height: 100vh; */
+}
+
+.app__body{
+  display:flex;
+}
+
+
